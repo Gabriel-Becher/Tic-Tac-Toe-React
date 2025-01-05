@@ -1,0 +1,10 @@
+.slot {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border: 2px solid #ccc;
+  border-radius: 10px;
+  min-height: 100px;
+  min-width: 100px;
+}

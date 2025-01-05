@@ -1,0 +1,17 @@
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 10px;
+  width: 330px;
+  height: 330px;
+  margin: 20px auto;
+}
+
+button {
+  margin-top: 20px;
+}
+
+.score {
+  margin-top: 20px;
+  text-align: center;
+}
